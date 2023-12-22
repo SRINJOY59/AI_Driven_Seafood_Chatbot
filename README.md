@@ -11,6 +11,7 @@ EfficientNet for classifying image,Flask as the main python framework for integr
 1) git clone https://github.com/SRINJOY59/AI_Driven_Seafood_Chatbot.git
 2) pip install bardapi
 3) go to bard-> console-> application -> cookies-> bard link -> _Secure - 1PSID api key
+   
 4)pip install langchain
 5) pip install openai
 6) pip install pyPDF2
